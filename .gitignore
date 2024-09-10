@@ -1,0 +1,4 @@
+# Ignore Visual Studio Code settings
+.vscode/
+logs/
+venv/

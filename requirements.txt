@@ -1,0 +1,4 @@
+python-chess
+requests
+stockfish
+beautifulsoup4
