@@ -26,7 +26,7 @@ Average Centipawn Loss (ACPL) for White: 130 -> ACPL for the first game
 Analyzing game: dominguez_perez_carlsen_2009.pgn
 Average Centipawn Loss (ACPL) for Black: 27 -> ACPL for the 2nd game
 Analyzing game: kramnik_carlsen_2008.pgn
-Average Centipawn Loss (ACPL) for Black: 14 -> -> ACPL for the first game
+Average Centipawn Loss (ACPL) for Black: 14 -> ACPL for the first game
 Average Centipawn Loss: 28 -> Average ACPL for all game listed 
 ``` 
 
@@ -48,4 +48,6 @@ Average Centipawn Loss (ACPL) measures the "value" a player loses by making inco
 
 Centipawns provide a standardized unit of measurement for evaluating positional advantages in chess. For instance, a one-pawn advantage is equivalent to 1 centipawn, while a one-rook advantage is equivalent to 5 centipawns (equivalent to five pawns). This allows for a more precise assessment of positional advantages in the game.
 
+# Why My ACPL Are Not the Same with Other Chess Apps?
 
+Because there every chess apps calculate ACPL with different settings. 
