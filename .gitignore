@@ -2,3 +2,4 @@
 .vscode/
 logs/
 venv/
+.DS_Store
