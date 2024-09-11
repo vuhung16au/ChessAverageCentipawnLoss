@@ -6,6 +6,11 @@ This tool calculates the Average of Average Centipawn Loss (ACPL) in multiple ch
 
 I created this tool to assess players' overall performance, consistency, and strength in a chess tournament.
 
+# Main Features 
+
+- Calculate ACPL for PGN game(s) 
+- Find missed wins, blunders, mistakes, inaccuracies
+
 # How To Use This Tool
 
 1. Set up a virtual environment: `virtualenv venv`
