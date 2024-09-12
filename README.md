@@ -51,7 +51,7 @@ Average Centipawn Loss (ACPL) measures the "value" a player loses by making inco
 
 # What Is The Benefit Of Using Centipawns?
 
-Centipawns provide a standardized unit of measurement for evaluating positional advantages in chess. For instance, a one-pawn advantage is equivalent to 1 centipawn, while a one-rook advantage is equivalent to 5 centipawns (equivalent to five pawns). This allows for a more precise assessment of positional advantages in the game.
+Centipawns provide a standardized unit of measurement for evaluating positional advantages in chess. For instance, a one-pawn advantage is equivalent to 100 centipawn, while a one-rook advantage is equivalent to 500 centipawns (equivalent to five pawns). This allows for a more precise assessment of positional advantages in the game.
 
 # Why My ACPL Are Not the Same with Other Chess Apps?
 
